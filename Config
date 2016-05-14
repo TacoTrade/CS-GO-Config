@@ -1,4 +1,4 @@
-# CS-GO-Config
+								# CS-GO-Config
 \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\    
 
 clear
@@ -163,7 +163,7 @@ alias swtchoff "bind mouse1 +attack; bind F1 swtchon"
 alias swtchon "bind mouse1 +aswtch; bind F1 swtchoff"
 bind F1 "swtchon"
 
-# CS-GO-Settings
+								# CS-GO-Settings
 \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\      \\    
 
     //LAUNCH_OPTIONS//
